@@ -1,11 +1,10 @@
 # Learning Spring Boot with a Hello World App
 
 ## Pre-requisites:
-Have Java installed
-Have VSCode installed
-Install the below VSCode extensions
+JDK 11 or later
+VSCode
 
-### VSCode Extensions:
+### VSCode Extensions needed:
 1) https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
 2) https://marketplace.visualstudio.com/items?itemName=vmware.vscode-boot-dev-pack
 

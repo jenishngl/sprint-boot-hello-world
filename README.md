@@ -1,8 +1,8 @@
 # Learning Spring Boot with a Hello World App
 
 ## Pre-requisites:
-JDK 11 or later
-VSCode
+* JDK 11 or later
+* VSCode
 
 ### VSCode Extensions needed:
 1) https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
